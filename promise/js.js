@@ -32,3 +32,4 @@ window.onkeypress = go;
 
 
 const git = 'iamania';
+console.log('check');
